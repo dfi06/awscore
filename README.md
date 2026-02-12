@@ -1,3 +1,10 @@
 <https://aws.daffais.dev/>
 
-Isn't up to date yet, ec2 cicd cominggg
+This pet project is:
+* Deployed on ec2
+* Uses github actions to auto deploy
+* A persistent service using pm2
+
+TODO:
+* login
+* s3 image gallery
