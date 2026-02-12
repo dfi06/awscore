@@ -1,8 +1,8 @@
 <https://aws.daffais.dev/>
 
-This pet project is:
-* Deployed on ec2
-* Uses github actions to auto deploy
+This personal learning project is:
+* Deployed on aws ec2
+* Using github actions to auto deploy
 * A persistent service using pm2
 
 TODO:
